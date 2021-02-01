@@ -2,25 +2,17 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: liweijia.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: liweijia-1.jpg
+
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello World!!
+Dr. Weijia Li is a Post-doc Researcher at CUHK-Sensetime Joint Lab ([MM Lab](http://mmlab.ie.cuhk.edu.hk/index_cn.html)), Department of Information Engineering, the Chinese University of Hong Kong, working with [Prof. Dahua Lin](http://dahua.me/). Before that, she received her Ph.D. (2014-2019) from [HPGC-group](http://47.94.243.94/mediawiki/index.php/Main_Page), Department of Earth System Science, Tsinghua Univeristy, advised by [Prof. Haohuan Fu](http://www.cess.tsinghua.edu.cn/info/1090/2401.htm). She received her Bachelor degree (2010-2014) from Department of Computer Science, Sun Yat-Sen Univeristy.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Her research interests include remote sensing image understanding, computer vision, and deep learning. She also loves dancing (Chinese dance and Ballet) during her leisure time. More information can be found in her [CV](/assets/pdf/liweijia_CV_20201224.pdf).

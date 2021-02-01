@@ -132,8 +132,8 @@ plugins:
 
 scholar:
 
-  last_name: Li
-  first_name: [Weijia]
+  last_name: Last
+  first_name: [First]
 
   style: apa
   locale: en
