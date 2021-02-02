@@ -13,6 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Dr. Weijia Li is a Post-doc Researcher at CUHK-Sensetime Joint Lab ([MM Lab](http://mmlab.ie.cuhk.edu.hk/index_cn.html)), Department of Information Engineering, the Chinese University of Hong Kong, working with [Prof. Dahua Lin](http://dahua.me/). Before that, she received her Ph.D. (2014-2019) from [HPGC-group](http://47.94.243.94/mediawiki/index.php/Main_Page), Department of Earth System Science, Tsinghua Univeristy, advised by [Prof. Haohuan Fu](http://www.cess.tsinghua.edu.cn/info/1090/2401.htm). She received her Bachelor degree (2010-2014) from Department of Computer Science, Sun Yat-Sen Univeristy.
+Dr. Weijia Li is a Post-doc Researcher at CUHK-Sensetime Joint Lab ([MM Lab](http://mmlab.ie.cuhk.edu.hk/index_cn.html)), Department of Information Engineering, the Chinese University of Hong Kong, working with [Prof. Dahua Lin](http://dahua.me/). Before that, she received her Ph.D. (2014-2019) from Department of Earth System Science, Tsinghua Univeristy, advised by [Prof. Haohuan Fu](http://www.cess.tsinghua.edu.cn/info/1090/2401.htm). She received her Bachelor degree (2010-2014) from Department of Computer Science, Sun Yat-Sen Univeristy. 
 
-Her research interests include remote sensing image understanding, computer vision, and deep learning. She also loves dancing (Chinese dance and Ballet) during her leisure time. More information can be found in her [CV](/assets/pdf/liweijia_CV_20201224.pdf).
+
+Her research interests include remote sensing image understanding, computer vision, and deep learning. She also loves dancing during her leisure time. More information can be found in her [CV](/assets/pdf/liweijia_CV_20201224.pdf).
