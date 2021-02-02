@@ -12,17 +12,17 @@ importance: 2
 <center>
 <td colspan="5" id="authors">
 <a href="http://liweijia.github.io">Weijia Li<sup>1</sup></a> &nbsp;&nbsp;&nbsp;
-<a>Wenqian Zhao<sup>2</sup></a> &nbsp;&nbsp;&nbsp;
-<a>Huaping Zhong<sup>1</sup></a> &nbsp;&nbsp;&nbsp;
+<a>Wenqian Zhao<sup>1</sup></a> &nbsp;&nbsp;&nbsp;
+<a>Huaping Zhong<sup>2</sup></a> &nbsp;&nbsp;&nbsp;
 <a href="https://heconghui.github.io">Conghui He<sup>2</sup></a> &nbsp;&nbsp;&nbsp;
-<a href="https://dahua.me">Dahua Lin<sup>2</sup></a> &nbsp;&nbsp;&nbsp;
+<a href="https://dahua.me">Dahua Lin<sup>1</sup></a> &nbsp;&nbsp;&nbsp;
 </td>
 </center>
 
 <center>
 <td colspan="5" id="affiliation">
 <sup>1</sup>The Chinese University of Hong Kong &nbsp;
-<sup>2</sup>Sensetime Group Limited;
+<sup>2</sup>Sensetime Group Limited
 </td>
 </center>
 
