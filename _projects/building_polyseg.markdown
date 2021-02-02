@@ -6,6 +6,29 @@ img: /assets/img/buildingseg.jpg
 importance: 2
 ---
 
+<center><b>AAAI Conference on Artificial Intelligence (AAAI), 2021</b></center>
+
+
+<center>
+<td colspan="5" id="authors">
+<a href="http://liweijia.github.io">Weijia Li<sup>1</sup></a> &nbsp;&nbsp;&nbsp;
+<a>Wenqian Zhao<sup>2</sup></a> &nbsp;&nbsp;&nbsp;
+<a>Huaping Zhong<sup>1</sup></a> &nbsp;&nbsp;&nbsp;
+<a href="https://heconghui.github.io">Conghui He<sup>2</sup></a> &nbsp;&nbsp;&nbsp;
+<a href="https://dahua.me">Dahua Lin<sup>2</sup></a> &nbsp;&nbsp;&nbsp;
+</td>
+</center>
+
+<center>
+<td colspan="5" id="affiliation">
+<sup>1</sup>The Chinese University of Hong Kong &nbsp;
+<sup>2</sup>Sensetime Group Limited;
+</td>
+</center>
+
+
+
+<br>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
