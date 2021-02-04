@@ -96,6 +96,20 @@
       <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
       {% endif %}
     {% endif %}
+    {% if entry.paper %}
+      {% if entry.paper contains '://' %}
+      <a href="{{ entry.paper }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Paper</a>
+      {% else %}
+      <a href="{{ entry.paper | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Paper</a>
+      {% endif %}
+    {% endif %}
+    {% if entry.project %}
+      {% if entry.project contains '://' %}
+      <a href="{{ entry.project }}" class="btn btn-sm z-depth-0" role="button" target="_blank">project</a>
+      {% else %}
+      <a href="{{ entry.project | prepend: '/projects/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">project</a>
+      {% endif %}
+    {% endif %}	 
     {% if entry.video %}
       {% if entry.video contains '://' %}
       <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Video</a>

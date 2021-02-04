@@ -11,11 +11,11 @@ importance: 2
 
 <center>
 <td colspan="5" id="authors">
-<a href="http://liweijia.github.io">Weijia Li<sup>12</sup></a> &nbsp;&nbsp;&nbsp;
-<a href="https://liweijia.github.io/projects/building_polyseg/">Wenqian Zhao<sup>1</sup></a> &nbsp;&nbsp;&nbsp;
-<a href="https://liweijia.github.io/projects/building_polyseg/">Huaping Zhong<sup>2</sup></a> &nbsp;&nbsp;&nbsp;
-<a href="https://conghui.github.io/">Conghui He<sup>2</sup></a> &nbsp;&nbsp;&nbsp;
-<a href="https://dahua.me">Dahua Lin<sup>12</sup></a> &nbsp;&nbsp;&nbsp;
+<a href="http://liweijia.github.io">Weijia Li</a><sup>1,2</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://liweijia.github.io/projects/building_polyseg/">Wenqian Zhao</a><sup>1</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://liweijia.github.io/projects/building_polyseg/">Huaping Zhong</a><sup>2</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://conghui.github.io/">Conghui He</a><sup>2</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://dahua.me">Dahua Lin</a><sup>1,2</sup> &nbsp;&nbsp;&nbsp;
 </td>
 </center>
 
@@ -30,15 +30,28 @@ importance: 2
 
 <br>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/buildingseg-teasor.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
 
-<div class="caption">
 
-</div>
+<table align=center width=720px>
+			<tr>
+				<table align=center width=720px>
+					<tr>
+						<td align=center width=720px>
+							<iframe width="720" height="405" src="https://www.youtube.com/embed/Kcnr22Wy02w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</td>
+					  </tr>
+					<tr>
+						<td align=center width=720px>
+						   </td>
+					  </tr>
+					 </table>
+			  </tr>
+		  </table>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The video presentation at AAAI 2021 conference. You can alternatively watch it on [bilibili](https://www.bilibili.com/video/BV1Br4y1P7bh?pop_share=1).
+
+
 
 
 <center><h2><a id="Abstract">Abstract</a></h2></center>
@@ -49,30 +62,33 @@ Building extraction from aerial or satellite images has been an important resear
 
 
 
-<center><h2><a id="Abstract">Video</a></h2></center>
-<td align=center width=720px>
-<center><iframe width="600" height="320" src="https://www.youtube.com/watch?v=Kcnr22Wy02w&ab_channel=WeijiaLi" frameborder="0" allowfullscreen></iframe></center>
-</td>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/buildingseg-teasor.jpg' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+
+<div class="caption">
+Examples of polygonal building segmentation results of our method. Our method produces vectorized building polygons with accurate vertices and edges, even for buildings with complex shapes.
+</div>
 
 
-
-
-
+<br>
 
 
 <center><h2><a id="downloads">Downloads</a></h2></center>  	
-
+<br>
 
 <div class="row">	
     <div class="col-sm mt-3 mt-md-0">
 	 <center>  		 
-	  <a href="/assets/pdf/AAAI-21-paper.pdf"><img class="rounded" onmouseover="this.src='/assets/img/icon_paper.jpg';" onmouseout="this.src='/assets/img/icon_paper.jpg';" src = "/assets/img/icon_paper.jpg" height = "150px"></a><br>
+	  <a href="/assets/pdf/AAAI-21-paper.pdf"><img class="rounded" onmouseover="this.src='/assets/img/icon_paper.png';" onmouseout="this.src='/assets/img/icon_paper.png';" src = "/assets/img/icon_paper.png" height = "150px"></a><br>
 	  <span style="font-size:16px">Paper</span><br>
     </center>
     </div>  
     <div class="col-sm mt-3 mt-md-0">
 	 <center> 
-	  <a href="/assets/pdf/AAAI-21-slides-20min.pdf"><img class="rounded" onmouseover="this.src='/assets/img/icon_slide.jpg';" onmouseout="this.src='/assets/img/icon_slide.jpg';" src = "/assets/img/icon_slide.jpg" height = "150px"></a><br>
+	  <a href="/assets/pdf/AAAI-21-slides-20min.pdf"><img class="rounded" onmouseover="this.src='/assets/img/icon_slide.png';" onmouseout="this.src='/assets/img/icon_slide.png';" src = "/assets/img/icon_slide.png" height = "150px"></a><br>
 	  <span style="font-size:16px">Slides</span><br>
     </center> 
     </div>
