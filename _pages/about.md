@@ -30,7 +30,7 @@ Email: liweijia621@gmail.com
 
 Dr. Weijia Li is a Post-doc Researcher at CUHK-Sensetime Joint Lab ([MM Lab](http://mmlab.ie.cuhk.edu.hk/index_cn.html)), Department of Information Engineering, CUHK, working with [Prof. Dahua Lin](http://dahua.me/). Weijia received her Ph.D. (2014-2019) from Department of Earth System Science, Tsinghua Univeristy, advised by [Prof. Haohuan Fu](http://www.cess.tsinghua.edu.cn/info/1090/2401.htm), and the Bachelor degree (2010-2014) from Department of Computer Science, Sun Yat-Sen Univeristy. 
 
-She serves as a reviewer for the multiple SCI journals, including Remote Sensing of Environment, IEEE Transactions on Geoscience and Remote Sensing, Remote Sensing, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, International Journal of Remote Sensing, etc.
+She serves as a reviewer for multiple SCI journals, including Remote Sensing of Environment, IEEE Transactions on Geoscience and Remote Sensing, Remote Sensing, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, International Journal of Remote Sensing, etc.
 
 Her research interests include remote sensing image understanding, computer vision, and deep learning. 
 She also loves dancing during her leisure time. More information can be found in her [CV](/assets/pdf/liweijia_CV_20210204.pdf).
