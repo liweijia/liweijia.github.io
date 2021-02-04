@@ -11,11 +11,11 @@ importance: 2
 
 <center>
 <td colspan="5" id="authors">
-<a href="http://liweijia.github.io">Weijia Li<sup>1</sup></a> &nbsp;&nbsp;&nbsp;
-<a>Wenqian Zhao<sup>1</sup></a> &nbsp;&nbsp;&nbsp;
-<a>Huaping Zhong<sup>2</sup></a> &nbsp;&nbsp;&nbsp;
-<a href="https://heconghui.github.io">Conghui He<sup>2</sup></a> &nbsp;&nbsp;&nbsp;
-<a href="https://dahua.me">Dahua Lin<sup>1</sup></a> &nbsp;&nbsp;&nbsp;
+<a href="http://liweijia.github.io">Weijia Li<sup>12</sup></a> &nbsp;&nbsp;&nbsp;
+<a href="https://liweijia.github.io/projects/building_polyseg/">Wenqian Zhao<sup>1</sup></a> &nbsp;&nbsp;&nbsp;
+<a href="https://liweijia.github.io/projects/building_polyseg/">Huaping Zhong<sup>2</sup></a> &nbsp;&nbsp;&nbsp;
+<a href="https://conghui.github.io/">Conghui He<sup>2</sup></a> &nbsp;&nbsp;&nbsp;
+<a href="https://dahua.me">Dahua Lin<sup>12</sup></a> &nbsp;&nbsp;&nbsp;
 </td>
 </center>
 
@@ -47,6 +47,19 @@ importance: 2
 Building extraction from aerial or satellite images has been an important research issue in remote sensing and computer vision domains for decades. Compared with pixel-wise semantic segmentation models that output raster building segmentation map, polygonal building segmentation approaches produce more realistic building polygons that are in the desirable vector format for practical applications. Despite the substantial efforts over recent years, state-of-the-art polygonal building segmentation methods still suffer from several limitations, e.g., (1) relying on a perfect segmentation map to guarantee the vectorization quality; (2) requiring a complex post-processing procedure; (3) generating inaccurate vertices with a fixed quantity, a wrong sequential order, inter-sections, etc. To tackle the above issues, in this paper, we propose a polygonal building segmentation approach and make the following contributions: (1) We design a multi-task segmentation network for joint semantic and geometric learning via three tasks, i.e., pixel-wise building segmentation, multi-class corner prediction, and edge orientation prediction. (2) We propose a simple but effective vertex generation module for transforming the segmentation contour into high-quality polygon vertices. (3) We further propose a polygon refinement network that automatically moves the polygon vertices into more accurate locations. Results on two popular building segmentation datasets demonstrate that our approach achieves significant improvements for both building instance segmentation (with 2% F1-score gain) and polygon vertex prediction (with 8% F1-score gain) compared with current state-of-the-art methods.
 </p>
 
+
+
+<center><h2><a id="Abstract">Video</a></h2></center>
+<td align=center width=720px>
+<center><iframe width="600" height="320" src="https://www.youtube.com/watch?v=Kcnr22Wy02w&ab_channel=WeijiaLi" frameborder="0" allowfullscreen></iframe></center>
+</td>
+
+
+
+
+
+
+
 <center><h2><a id="downloads">Downloads</a></h2></center>  	
 
 
@@ -65,7 +78,7 @@ Building extraction from aerial or satellite images has been an important resear
     </div>
     <div class="col-sm mt-3 mt-md-0">
 	 <center> 
-	  <a href="/assets/video/liweijia-1m-screen-480p.mp4"><img class="rounded" onmouseover="this.src='/assets/img/icon_video.png';" onmouseout="this.src='/assets/img/icon_video.png';" src = "/assets/img/icon_video.png" height = "150px"></a><br>
+	  <a href="https://www.youtube.com/watch?v=Kcnr22Wy02w&ab_channel=WeijiaLi"><img class="rounded" onmouseover="this.src='/assets/img/icon_video.png';" onmouseout="this.src='/assets/img/icon_video.png';" src = "/assets/img/icon_video.png" height = "150px"></a><br>
 	  <span style="font-size:16px">Video</span><br>
     </center>
     </div>
