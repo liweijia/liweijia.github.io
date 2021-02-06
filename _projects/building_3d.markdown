@@ -12,8 +12,8 @@ importance: 1
 <center>
 <td colspan="5" id="authors">
 <a href="http://liweijia.github.io">Weijia Li</a><sup>1,2</sup> &nbsp;&nbsp;&nbsp;
-<a href="https://liweijia.github.io/projects/building_polyseg/">Lingxuan Meng</a><sup>2,3</sup> &nbsp;&nbsp;&nbsp;
-<a href="https://liweijia.github.io/projects/building_polyseg/">Jinwang Wang</a><sup>2,4</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://liweijia.github.io/projects/building_3d/">Lingxuan Meng</a><sup>2,3</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://liweijia.github.io/projects/building_3d/">Jinwang Wang</a><sup>2,4</sup> &nbsp;&nbsp;&nbsp;
 <a href="https://conghui.github.io/">Conghui He</a><sup>2</sup> &nbsp;&nbsp;&nbsp;
 <a href="https://dahua.me">Dahua Lin</a><sup>1,2</sup> &nbsp;&nbsp;&nbsp;
 </td>
