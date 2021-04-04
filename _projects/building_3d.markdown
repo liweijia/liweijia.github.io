@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 3D Building Reconstruction
-description: 3D Building Model Reconstruction from Monocular Remote Sensing Images
+description: 3D Building Reconstruction from Monocular Aerial Images
 img: /assets/img/building3d.jpg
 importance: 1
 ---
@@ -15,6 +15,7 @@ importance: 1
 <a href="https://liweijia.github.io/projects/building_3d/">Lingxuan Meng</a><sup>2,3</sup> &nbsp;&nbsp;&nbsp;
 <a href="https://liweijia.github.io/projects/building_3d/">Jinwang Wang</a><sup>2,4</sup> &nbsp;&nbsp;&nbsp;
 <a href="https://conghui.github.io/">Conghui He</a><sup>2</sup> &nbsp;&nbsp;&nbsp;
+<a href="http://www.captain-whu.com/xia_En.html">Guisong Xia</a><sup>4</sup> &nbsp;&nbsp;&nbsp;
 <a href="https://dahua.me">Dahua Lin</a><sup>1,2</sup> &nbsp;&nbsp;&nbsp;
 </td>
 </center>
@@ -42,5 +43,5 @@ importance: 1
 </div>
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-3D building reconstruction from monocular remote sensing imagery is an important research problem and an economic solution to large-scale city modeling, compared with reconstruction from LiDAR data and multi-view imagery. However, several challenges such as the partial invisibility of building footprints and facades, the serious shadow effect, and the extreme variance of building height in large-scale areas, have restricted the existing monocular image based building reconstruction studies to certain application scenes, i.e., modeling simple low-rise buildings from near-nadir images. In this study, we propose a novel 3D building reconstruction method for monocular remote sensing images, which not only solves the above challenges but is applicable to complicated scenarios. We design a multi-task neural network to learn the intrinsic property of oblique images, the key components of a 3D building model and their relations via five relevant tasks, i.e., roof and facade segmentation, visible skeleton segmentation, image-wise offset angle prediction, pixel-wise offset field prediction, and skeleton orientation prediction. The five types of outputs are further integrated to produce the the final vectorized 3D building models. Results on a novel public dataset demonstrate that our proposed method improves the footprint extraction F1-score by 3.2% to 13.4%, and reduces the height estimation endpoint errors of high-rise buildings by over 10% compared with current state-of-the-art.
+3D building reconstruction from monocular aerial imagery is an important research problem and an economic solution to large-scale city modeling, compared with reconstruction from LiDAR data and multi-view imagery. However, several challenges such as the partial invisibility of building footprints and facades, the serious shadow effect, and the extreme variance of building height in large-scale areas, have restricted the existing monocular image based building reconstruction studies to certain application scenes, i.e., modeling simple low-rise buildings from near-nadir images. In this study, we propose a novel 3D building reconstruction method for monocular aerial images, which tackles the above difficulties, thus providing an appealing solution for more complicated scenarios. We design a multi-task building reconstruction network, named MTBR-Net, to learn the geometric property of oblique images, the key components of a 3D building model and their relations via four semantic-related and three offset-related tasks. The network outputs are further integrated by a prior knowledge based 3D model optimization method to produce the the final 3D building models. Results on a public 3D reconstruction dataset and a novel released dataset demonstrate that our proposed method significantly improves the height estimation performance by over 40% and the building segmentation F1-score by 2% - 4% compared with current state-of-the-art.
 </p>
