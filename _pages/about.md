@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: liweijia-1.jpg
+  image: liweijia-2.jpeg
 
 
 news: true  # includes a list of news items
@@ -17,20 +17,19 @@ social: true  # includes social icons at the bottom of the page
 <b>Weijia Li 李唯嘉</b>
 </h1>
 
-Post-doc Researcher 
+Associate Professor
 
-Department of Information Engineering
+School of Geospatial Engineering and Science
 
-The Chinese University of Hong Kong
+Sun Yat-Sen University
 
 Email: liweijia621@gmail.com
 
 [Google Scholar](https://scholar.google.com/citations?user=R6Rnh9IAAAAJ&hl=en)
 
 
-Dr. Weijia Li is a Post-doc Researcher at CUHK-Sensetime Joint Lab ([MM Lab](http://mmlab.ie.cuhk.edu.hk/index_cn.html)), Department of Information Engineering, CUHK, working with [Prof. Dahua Lin](http://dahua.site/). Weijia received her Ph.D. (2014-2019) from Department of Earth System Science, Tsinghua Univeristy, advised by [Prof. Haohuan Fu](http://47.94.243.94/mediawiki/index.php/Haohuan_Fu), and the Bachelor degree (2010-2014) from Department of Computer Science, Sun Yat-Sen Univeristy. 
+I am currently an Associate Professor at the School of Geospatial Engineering and Science, Sun Yat-Sen University. Before this, I worked as a Post-doc Researcher (2019-2021) at CUHK-Sensetime Joint Lab ([MM Lab](http://mmlab.ie.cuhk.edu.hk/index_cn.html)), Department of Information Engineering, CUHK, working with [Prof. Dahua Lin](http://dahua.site/). I received my Ph.D. (2014-2019) from Department of Earth System Science, Tsinghua Univeristy, advised by [Prof. Haohuan Fu](http://47.94.243.94/mediawiki/index.php/Haohuan_Fu), and the Bachelor degree (2010-2014) from Department of Computer Science, Sun Yat-Sen Univeristy.
 
-She serves as a reviewer for multiple SCI journals, including Remote Sensing of Environment, IEEE Transactions on Geoscience and Remote Sensing, Remote Sensing, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, International Journal of Remote Sensing, etc.
+I serves as a reviewer for multiple SCI journals, including Remote Sensing of Environment, IEEE Transactions on Image Processing, IEEE Transactions on Geoscience and Remote Sensing, Remote Sensing, IEEE J-STARS, International Journal of Remote Sensing, etc. My research interests include remote sensing image understanding, computer vision, and deep learning. More information can be found in my [CV](/assets/pdf/liweijia_CV_20210813.pdf).
 
-Her research interests include remote sensing image understanding, computer vision, and deep learning. 
-She also loves dancing during her leisure time. More information can be found in her [CV](/assets/pdf/liweijia_CV_20210813.pdf).
+I am looking for highly motivated students and researchers. Please feel free to contact me if you are interested.
