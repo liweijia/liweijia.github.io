@@ -22,7 +22,7 @@ importance: 2
 <center>
 <td colspan="5" id="affiliation">
 <sup>1</sup>The Chinese University of Hong Kong &nbsp;
-<sup>2</sup>Sensetime Group Limited
+<sup>2</sup>Sensetime Research
 </td>
 </center>
 
