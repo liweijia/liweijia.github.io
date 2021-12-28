@@ -66,7 +66,7 @@ importance: 1
     </div>
     <div class="col-sm mt-3 mt-md-0">
 	 <center>
-	  <a href="https://drive.google.com/drive/folders/1HQDXZhXaQfgCc8xti8fIbV3lxpbJOa4e"><img class="rounded" onmouseover="this.src='/assets/img/icon_video.png';" onmouseout="this.src='/assets/img/icon_dataset1.png';" src = "/assets/img/icon_dataset1.png" height = "150px"></a><br>
+	  <a href="https://drive.google.com/drive/folders/1HQDXZhXaQfgCc8xti8fIbV3lxpbJOa4e"><img class="rounded" onmouseover="this.src='/assets/img/icon_dataset1.png';" onmouseout="this.src='/assets/img/icon_dataset1.png';" src = "/assets/img/icon_dataset1.png" height = "150px"></a><br>
 	  <span style="font-size:16px">Dataset</span><br>
     </center>
     </div>
