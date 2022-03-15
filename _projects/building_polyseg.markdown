@@ -12,10 +12,10 @@ importance: 2
 <center>
 <td colspan="5" id="authors">
 <a href="http://liweijia.github.io">Weijia Li</a><sup>1,2</sup> &nbsp;&nbsp;&nbsp;
-<a href="https://liweijia.github.io/projects/building_polyseg/">Wenqian Zhao</a><sup>1</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://wenqian1228.github.io/">Wenqian Zhao</a><sup>1</sup> &nbsp;&nbsp;&nbsp;
 <a href="https://liweijia.github.io/projects/building_polyseg/">Huaping Zhong</a><sup>2</sup> &nbsp;&nbsp;&nbsp;
-<a href="https://conghui.github.io/">Conghui He</a><sup>2</sup> &nbsp;&nbsp;&nbsp;
-<a href="https://dahua.me">Dahua Lin</a><sup>1,2</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://liweijia.github.io/projects/building_polyseg/">Conghui He</a><sup>2</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://dahua.site">Dahua Lin</a><sup>1,2</sup> &nbsp;&nbsp;&nbsp;
 </td>
 </center>
 
