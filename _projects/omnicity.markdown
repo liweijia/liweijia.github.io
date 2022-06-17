@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OmniCity
-description: OmniCity: Omnipotent City Understanding with Multi-level and Multi-view Images
+description: Omnipotent City Understanding with Multi-level and Multi-view Images
 img: /assets/img/omnicity-icon.png
 importance: 3
 ---
@@ -12,10 +12,10 @@ importance: 3
 <center>
 <td colspan="5" id="authors">
 <a href="http://liweijia.github.io">Weijia Li</a><sup>1,3</sup> &nbsp;&nbsp;&nbsp;
-<a href="https://liweijia.github.io/projects/building_3d/">Yawen Lai</a><sup>2,4</sup> &nbsp;&nbsp;&nbsp;
-<a href="https://liweijia.github.io/projects/building_3d/">Linning Xu</a><sup>3</sup> &nbsp;&nbsp;&nbsp;
-<a href="https://liweijia.github.io/projects/building_3d/">Yuanbo Xiangli</a><sup>3</sup> &nbsp;&nbsp;&nbsp;
-<a href="https://liweijia.github.io/projects/building_3d/">Conghui He</a><sup>4</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://liweijia.github.io/projects/omnicity/">Yawen Lai</a><sup>2,4</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://eveneveno.github.io/lnxu/">Linning Xu</a><sup>3</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://liweijia.github.io/projects/omnicity/">Yuanbo Xiangli</a><sup>3</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://liweijia.github.io/projects/omnicity/">Conghui He</a><sup>4</sup> &nbsp;&nbsp;&nbsp;
 <a href="http://www.captain-whu.com/xia_En.html">Gui-song Xia</a><sup>5</sup> &nbsp;&nbsp;&nbsp;
 <a href="https://dahua.site">Dahua Lin</a><sup>3,6</sup> &nbsp;&nbsp;&nbsp;
 </td>
