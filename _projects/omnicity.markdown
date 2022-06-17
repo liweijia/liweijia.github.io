@@ -11,22 +11,24 @@ importance: 3
 
 <center>
 <td colspan="5" id="authors">
-<a href="http://liweijia.github.io">Weijia Li</a><sup>1,2,*</sup> &nbsp;&nbsp;&nbsp;
-<a href="https://liweijia.github.io/projects/building_3d/">Lingxuan Meng</a><sup>2,3,*</sup> &nbsp;&nbsp;&nbsp;
-<a href="https://liweijia.github.io/projects/building_3d/">Jinwang Wang</a><sup>2,4</sup> &nbsp;&nbsp;&nbsp;
-<a href="https://liweijia.github.io/projects/building_3d/">Conghui He</a><sup>2</sup> &nbsp;&nbsp;&nbsp;
-<a href="http://www.captain-whu.com/xia_En.html">Gui-song Xia</a><sup>4</sup> &nbsp;&nbsp;&nbsp;
-<a href="https://dahua.site">Dahua Lin</a><sup>1,5</sup> &nbsp;&nbsp;&nbsp;
+<a href="http://liweijia.github.io">Weijia Li</a><sup>1,3</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://liweijia.github.io/projects/building_3d/">Yawen Lai</a><sup>2,4</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://liweijia.github.io/projects/building_3d/">Linning Xu</a><sup>3</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://liweijia.github.io/projects/building_3d/">Yuanbo Xiangli</a><sup>3</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://liweijia.github.io/projects/building_3d/">Conghui He</a><sup>4</sup> &nbsp;&nbsp;&nbsp;
+<a href="http://www.captain-whu.com/xia_En.html">Gui-song Xia</a><sup>5</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://dahua.site">Dahua Lin</a><sup>3,6</sup> &nbsp;&nbsp;&nbsp;
 </td>
 </center>
 
 <center>
 <td colspan="5" id="affiliation">
-<sup>1</sup>The Chinese University of Hong Kong &nbsp;
-<sup>2</sup>Sensetime Research &nbsp;
-<sup>3</sup>University of Electronic Science and Technology of China &nbsp;
-<sup>4</sup>Wuhan University &nbsp;
-<sup>5</sup>Shanghai AI Laboratory
+<sup>1</sup>Sun Yat-sen University &nbsp;
+<sup>2</sup>Peking University &nbsp;
+<sup>3</sup>The Chinese University of Hong Kong &nbsp;
+<sup>4</sup>Sensetime Research &nbsp;
+<sup>5</sup>Wuhan University &nbsp;
+<sup>6</sup>Shanghai AI Laboratory
 
 </td>
 </center>
@@ -35,7 +37,7 @@ importance: 3
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/building3d-teasor-v2.png' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/omnicity-teasor.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 
@@ -44,30 +46,4 @@ importance: 3
 </div>
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-3D building reconstruction from monocular remote sensing imagery is an important research problem and an economic solution to large-scale city modeling, compared with reconstruction from LiDAR data and multi-view imagery. However, several challenges such as the partial invisibility of building footprints and facades, the serious shadow effect, and the extreme variance of building height in large-scale areas, have restricted the existing monocular image based building reconstruction studies to certain application scenes, i.e., modeling simple low-rise buildings from near-nadir images. In this study, we propose a novel 3D building reconstruction method for monocular remote sensing images, which tackles the above difficulties, thus providing an appealing solution for more complicated scenarios. We design a multi-task building reconstruction network, named MTBR-Net, to learn the geometric property of oblique images, the key components of a 3D building model and their relations via four semantic-related and three offset-related tasks. The network outputs are further integrated by a prior knowledge based 3D model optimization method to produce the the final 3D building models. Results on a public 3D reconstruction dataset and a novel released dataset demonstrate that our proposed method improves the height estimation performance by over 40% and the segmentation F1-score by 2% - 4% compared with current state-of-the-art.
-</p>
-
-
-<center><h2><a id="downloads">Downloads</a></h2></center>
-<br>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-	 <center>
-	  <a href="/assets/pdf/ICCV-21-paper.pdf"><img class="rounded" onmouseover="this.src='/assets/img/icon_paper.png';" onmouseout="this.src='/assets/img/icon_paper.png';" src = "/assets/img/icon_paper.png" height = "150px"></a><br>
-	  <span style="font-size:16px">Paper</span><br>
-    </center>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-	 <center>
-	  <a href="/assets/pdf/ICCV-21-slides.pdf"><img class="rounded" onmouseover="this.src='/assets/img/icon_slide.png';" onmouseout="this.src='/assets/img/icon_slide.png';" src = "/assets/img/icon_slide.png" height = "150px"></a><br>
-	  <span style="font-size:16px">Slides</span><br>
-    </center>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-	 <center>
-	  <a href="https://drive.google.com/drive/folders/1HQDXZhXaQfgCc8xti8fIbV3lxpbJOa4e"><img class="rounded" onmouseover="this.src='/assets/img/icon_dataset1.png';" onmouseout="this.src='/assets/img/icon_dataset1.png';" src = "/assets/img/icon_dataset1.png" height = "150px"></a><br>
-	  <span style="font-size:16px">Dataset</span><br>
-    </center>
-    </div>
-</div>
+In this paper we introduce OmniCity, a novel benchmark for omnipotent city understanding with multi-level and multi-view images. OmniCity contains multi-view satellite images as well as street-level panorama and mono-view images, which are well aligned and collected from 25,000 viewpoint geo-locations in New York City. To reduce the human annotation efforts, we propose an efficient annotation pipeline for labeling the street-view panorama images at pixel level, via leveraging the existing label maps of satellite view and the transformation rules between different views (satellite, panorama, and mono-view). Based on our OmniCity dataset, we conduct baseline experiments for a variety of tasks on satellite and street-level images, including building footprint extraction, height estimation, and building plane / instance / land use segmentation. We also analyze the impact of view on each task, the performance of different models, limitations of existing methods, etc. Compared with the existing multi-view and multi-level benchmarks, our OmniCity provides richer annotation types for street-level images and more baseline results obtained from state-of-the-art models, and introduces a novel task for land use segmentation of building instances on street-level panorama images. Moreover, OmniCity provides new problem settings to promote novel methods for existing tasks, such as cross-view image matching, synthesis, segmentation, detection, etc., and facilitates novel tasks and methods for large-scale city understanding, reconstruction, and simulation. OmniCity will be released soon.</p>
