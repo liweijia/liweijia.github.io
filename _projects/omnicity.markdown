@@ -3,7 +3,7 @@ layout: page
 title: Omnipotent City Understanding
 description: OmniCity: Omnipotent City Understanding with Multi-level and Multi-view Images
 img: /assets/img/omnicity-icon.png
-importance: 1
+importance: 3
 ---
 
 
