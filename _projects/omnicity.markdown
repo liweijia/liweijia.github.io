@@ -46,6 +46,10 @@ importance: 3
 
 </div>
 
+
+<center><h2><a id="downloads">Abstract</a></h2></center>
+<br>
+
 <p style="text-align:justify; text-justify:inter-ideograph;">
 
 This paper presents OmniCity, a new dataset for omnipotent city understanding from multi-level and multi-view images. More precisely, the OmniCity contains multi-view satellite images as well as street-level panorama and mono-view images, constituting over 100K pixel-wise annotated images that are well-aligned and collected from 25K geo-locations in New York City. To alleviate the substantial pixel-wise annotation efforts, we propose an efficient street-view image annotation pipeline that leverages the existing label maps of satellite view and the transformation relations between different views (satellite, panorama, and mono-view).  
@@ -53,6 +57,9 @@ With the new OmniCity dataset, we provide benchmarks for a variety of tasks incl
 
 
 
+
+<center><h2><a id="downloads">Comparison with current benchmarks</a></h2></center>
+<br>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
