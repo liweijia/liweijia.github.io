@@ -15,6 +15,7 @@ importance: 3
 <a href="https://liweijia.github.io/projects/omnicity/">Yawen Lai</a><sup>2,4</sup> &nbsp;&nbsp;&nbsp;
 <a href="https://eveneveno.github.io/lnxu/">Linning Xu</a><sup>3</sup> &nbsp;&nbsp;&nbsp;
 <a href="https://liweijia.github.io/projects/omnicity/">Yuanbo Xiangli</a><sup>3</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://liweijia.github.io/projects/omnicity/">Jinhua Yu</a><sup>1</sup> &nbsp;&nbsp;&nbsp;
 <a href="https://liweijia.github.io/projects/omnicity/">Conghui He</a><sup>4</sup> &nbsp;&nbsp;&nbsp;
 <a href="http://www.captain-whu.com/xia_En.html">Gui-song Xia</a><sup>5</sup> &nbsp;&nbsp;&nbsp;
 <a href="https://dahua.site">Dahua Lin</a><sup>3,6</sup> &nbsp;&nbsp;&nbsp;
@@ -37,7 +38,7 @@ importance: 3
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/omnicity-teasor.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/omnicity-teasor.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 
@@ -46,4 +47,5 @@ importance: 3
 </div>
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-In this work, we introduce OmniCity, a novel benchmark for omnipotent city understanding with multi-level and multi-view images. OmniCity contains multi-view satellite images as well as street-level panorama and mono-view images, which are well aligned and collected from 25,000 viewpoint geo-locations in New York City. To reduce the human annotation efforts, we propose an efficient annotation pipeline for labeling the street-view panorama images at pixel level, via leveraging the existing label maps of satellite view and the transformation rules between different views (satellite, panorama, and mono-view). Based on our OmniCity dataset, we conduct baseline experiments for a variety of tasks on satellite and street-level images, including building footprint extraction, height estimation, and building plane / instance / land use segmentation. We also analyze the impact of view on each task, the performance of different models, limitations of existing methods, etc. Compared with the existing multi-view and multi-level benchmarks, our OmniCity provides richer annotation types for street-level images and more baseline results obtained from state-of-the-art models, and introduces a novel task for land use segmentation of building instances on street-level panorama images. Moreover, OmniCity provides new problem settings to promote novel methods for existing tasks, such as cross-view image matching, synthesis, segmentation, detection, etc., and facilitates novel tasks and methods for large-scale city understanding, reconstruction, and simulation. OmniCity will be released soon.</p>
+This paper presents OmniCity, a new dataset for omnipotent city understanding from multi-level and multi-view images. More precisely, the OmniCity contains multi-view satellite images as well as street-level panorama and mono-view images, constituting over 100K pixel-wise annotated images that are well-aligned and collected from 25K geo-locations in New York City. To alleviate the substantial pixel-wise annotation efforts, we propose an efficient street-view image annotation pipeline that leverages the existing label maps of satellite view and the transformation relations between different views (satellite, panorama, and mono-view).  
+With the new OmniCity dataset, we provide benchmarks for a variety of tasks including building footprint extraction, height estimation, and building plane/instance/fine-grained segmentation. We also analyze the impact of view on each task, the performance of different models, limitations of existing methods, etc. Compared with the existing multi-level and multi-view benchmarks, our OmniCity contains a larger number of images with richer annotation types and more views, provides more baseline results obtained from state-of-the-art models, and introduces a novel task for fine-grained building instance segmentation on street-level panorama images. Moreover, OmniCity provides new problem settings for existing tasks, such as cross-view image matching, synthesis, segmentation, detection, etc., and facilitates the developing of new methods for large-scale city understanding, reconstruction, and simulation. The OmniCity dataset as well as the benchmarks will be released soon.</p>
