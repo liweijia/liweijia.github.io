@@ -35,7 +35,6 @@ importance: 3
 </center>
 
 
-Abstract
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -51,3 +50,33 @@ Abstract
 
 This paper presents OmniCity, a new dataset for omnipotent city understanding from multi-level and multi-view images. More precisely, the OmniCity contains multi-view satellite images as well as street-level panorama and mono-view images, constituting over 100K pixel-wise annotated images that are well-aligned and collected from 25K geo-locations in New York City. To alleviate the substantial pixel-wise annotation efforts, we propose an efficient street-view image annotation pipeline that leverages the existing label maps of satellite view and the transformation relations between different views (satellite, panorama, and mono-view).  
 With the new OmniCity dataset, we provide benchmarks for a variety of tasks including building footprint extraction, height estimation, and building plane/instance/fine-grained segmentation. We also analyze the impact of view on each task, the performance of different models, limitations of existing methods, etc. Compared with the existing multi-level and multi-view benchmarks, our OmniCity contains a larger number of images with richer annotation types and more views, provides more baseline results obtained from state-of-the-art models, and introduces a novel task for fine-grained building instance segmentation on street-level panorama images. Moreover, OmniCity provides new problem settings for existing tasks, such as cross-view image matching, synthesis, segmentation, detection, etc., and facilitates the developing of new methods for large-scale city understanding, reconstruction, and simulation. The OmniCity dataset as well as the benchmarks will be released soon.</p>
+
+
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/omnicity-table.png' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+
+<div class="caption">
+
+</div>
+
+<p style="text-align:justify; text-justify:inter-ideograph;">
+
+
+A comparison of our proposed dataset and existing city-related datasets. The \# Images column represents the number of annotated images. The street view column shows whether the dataset contains no / mono-view (mono) / panorama (pano) street-level images. The satellite view column shows whether the dataset contains no / single / multiple satellite images. The annotation level column indicates which level of tasks the dataset is designed for, i.e., semantic segmentation, object detection (bbox), instance segmentation, plane segmentation, and image classification. The last two columns indicate whether the dataset contains fine-grained land use or height labels. Compared with the existing benchmarks, our OmniCity contains a larger number of images, more types of views, and richer annotation types at a finer annotation level.</p>
+
+
+
+
+
+
+
+
+
+
+
+
