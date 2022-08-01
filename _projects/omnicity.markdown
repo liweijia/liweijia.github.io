@@ -46,9 +46,9 @@ importance: 3
 
 </div>
 
-
-<center><h2><a id="downloads">Abstract</a></h2></center>
 <br>
+<center><h2><a id="downloads">Abstract</a></h2></center>
+
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
 
@@ -57,9 +57,9 @@ With the new OmniCity dataset, we provide benchmarks for a variety of tasks incl
 
 
 
-
-<center><h2><a id="downloads">Comparison with current benchmarks</a></h2></center>
 <br>
+<center><h2><a id="downloads">Comparison with current benchmarks</a></h2></center>
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
