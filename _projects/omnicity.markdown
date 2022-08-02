@@ -107,9 +107,14 @@ The annotator is first required to drag the floor line to fit the bottom boundar
 
 <div class="caption">
 
+<p style="text-align:justify; text-justify:inter-ideograph;">
+
+In this work, we provide a variety of benchmarks for multiple satellite and street-level tasks. The satellite-level tasks in our experiments include a building footprint segmentation task and a height estimation task. For both tasks, we conduct experiments on the satellite images with three view angles. For the street-level tasks, we conduct two instance segmentation tasks (i.e., land use and building instance segmentation) on the panorama images, and three instance segmentation tasks (i.e., land use / building instance / plane segmentation) on mono-view images. Please note that these are only preliminary experimental results on OmniCity dataset. More benchmarks of latest models and additional tasks will be continuously updated on OmniCity homepage.</p>
+
 
 <br>
 <br>
+
 
 <center><h2><a id="downloads">Downloads</a></h2></center>
 <br>
