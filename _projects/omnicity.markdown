@@ -12,11 +12,11 @@ importance: 3
 <center>
 <td colspan="5" id="authors">
 <a href="http://liweijia.github.io">Weijia Li</a><sup>1,3</sup> &nbsp;&nbsp;&nbsp;
-<a href="https://liweijia.github.io/projects/omnicity/">Yawen Lai</a><sup>2,4</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://city-super.github.io/omnicity">Yawen Lai</a><sup>2,4</sup> &nbsp;&nbsp;&nbsp;
 <a href="https://eveneveno.github.io/lnxu/">Linning Xu</a><sup>3</sup> &nbsp;&nbsp;&nbsp;
-<a href="https://liweijia.github.io/projects/omnicity/">Yuanbo Xiangli</a><sup>3</sup> &nbsp;&nbsp;&nbsp;
-<a href="https://liweijia.github.io/projects/omnicity/">Jinhua Yu</a><sup>1</sup> &nbsp;&nbsp;&nbsp;
-<a href="https://liweijia.github.io/projects/omnicity/">Conghui He</a><sup>4</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://city-super.github.io/omnicity">Yuanbo Xiangli</a><sup>3</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://city-super.github.io/omnicity">Jinhua Yu</a><sup>1</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://city-super.github.io/omnicity">Conghui He</a><sup>4</sup> &nbsp;&nbsp;&nbsp;
 <a href="http://www.captain-whu.com/xia_En.html">Gui-song Xia</a><sup>5</sup> &nbsp;&nbsp;&nbsp;
 <a href="https://dahua.site">Dahua Lin</a><sup>3,6</sup> &nbsp;&nbsp;&nbsp;
 </td>
@@ -52,8 +52,8 @@ importance: 3
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
 
-This paper presents OmniCity, a new dataset for omnipotent city understanding from multi-level and multi-view images. More precisely, the OmniCity contains multi-view satellite images as well as street-level panorama and mono-view images, constituting over 100K pixel-wise annotated images that are well-aligned and collected from 25K geo-locations in New York City. To alleviate the substantial pixel-wise annotation efforts, we propose an efficient street-view image annotation pipeline that leverages the existing label maps of satellite view and the transformation relations between different views (satellite, panorama, and mono-view).  
-With the new OmniCity dataset, we provide benchmarks for a variety of tasks including building footprint extraction, height estimation, and building plane/instance/fine-grained segmentation. We also analyze the impact of view on each task, the performance of different models, limitations of existing methods, etc. Compared with the existing multi-level and multi-view benchmarks, our OmniCity contains a larger number of images with richer annotation types and more views, provides more baseline results obtained from state-of-the-art models, and introduces a novel task for fine-grained building instance segmentation on street-level panorama images. Moreover, OmniCity provides new problem settings for existing tasks, such as cross-view image matching, synthesis, segmentation, detection, etc., and facilitates the developing of new methods for large-scale city understanding, reconstruction, and simulation. The OmniCity dataset as well as the benchmarks will be released soon.</p>
+This paper presents OmniCity, a new dataset for omnipotent city understanding from multi-level and multi-view images. More precisely, the OmniCity contains multi-view satellite images as well as street-level panorama and mono-view images, constituting over 100K pixel-wise annotated images that are well-aligned and collected from 25K geo-locations in New York City. To alleviate the substantial pixel-wise annotation efforts, we propose an efficient street-view image annotation pipeline that leverages the existing label maps of satellite view and the transformation relations between different views (satellite, panorama, and mono-view).
+With the new OmniCity dataset, we provide benchmarks for a variety of tasks including building footprint extraction, height estimation, and building plane/instance/fine-grained segmentation. We also analyze the impact of view on each task, the performance of different models, limitations of existing methods, etc. Compared with the existing multi-level and multi-view benchmarks, our OmniCity contains a larger number of images with richer annotation types and more views, provides more benchmark results obtained from state-of-the-art models, and introduces a novel task for fine-grained building instance segmentation on street-level panorama images. Moreover, OmniCity provides new problem settings for existing tasks, such as cross-view image matching, synthesis, segmentation, detection, etc., and facilitates the developing of new methods for large-scale city understanding, reconstruction, and simulation. The OmniCity dataset as well as the benchmarks will be released soon.</p>
 
 
 
@@ -97,7 +97,7 @@ The annotator is first required to drag the floor line to fit the bottom boundar
 
 
 <br>
-<center><h2><a id="downloads">Example Baseline Results</a></h2></center>
+<center><h2><a id="downloads">Example Results</a></h2></center>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -128,13 +128,13 @@ In this work, we provide a variety of benchmarks for multiple satellite and stre
     </div>
     <div class="col-sm mt-3 mt-md-0">
 	 <center>
-	  <a href="https://liweijia.github.io/projects/omnicity/"><img class="rounded" onmouseover="this.src='/assets/img/icon_code.png';" onmouseout="this.src='/assets/img/icon_code.png';" src = "/assets/img/icon_code.png" height = "150px"></a><br>
+	  <a href="https://city-super.github.io/omnicity"><img class="rounded" onmouseover="this.src='/assets/img/icon_code.png';" onmouseout="this.src='/assets/img/icon_code.png';" src = "/assets/img/icon_code.png" height = "150px"></a><br>
 	  <span style="font-size:16px">Code (Comming)</span><br>
     </center>
     </div>
     <div class="col-sm mt-3 mt-md-0">
 	 <center>
-	  <a href="https://liweijia.github.io/projects/omnicity/"><img class="rounded" onmouseover="this.src='/assets/img/icon_dataset1.png';" onmouseout="this.src='/assets/img/icon_dataset1.png';" src = "/assets/img/icon_dataset1.png" height = "150px"></a><br>
+	  <a href="https://city-super.github.io/omnicity"><img class="rounded" onmouseover="this.src='/assets/img/icon_dataset1.png';" onmouseout="this.src='/assets/img/icon_dataset1.png';" src = "/assets/img/icon_dataset1.png" height = "150px"></a><br>
 	  <span style="font-size:16px">Dataset (Comming)</span><br>
     </center>
     </div>
