@@ -97,7 +97,7 @@ The annotator is first required to drag the floor line to fit the bottom boundar
 
 
 <br>
-<center><h2><a id="downloads">Example Results</a></h2></center>
+<center><h2><a id="downloads">Example Baseline Results</a></h2></center>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -108,7 +108,29 @@ The annotator is first required to drag the floor line to fit the bottom boundar
 <div class="caption">
 
 
+<center><h2><a id="downloads">Downloads</a></h2></center>
+<br>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+	 <center>
+	  <a href="https://arxiv.org/abs/2208.00928"><img class="rounded" onmouseover="this.src='/assets/img/icon_paper.png';" onmouseout="this.src='/assets/img/icon_paper.png';" src = "/assets/img/icon_paper.png" height = "150px"></a><br>
+	  <span style="font-size:16px">Paper (Arxiv)</span><br>
+    </center>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+	 <center>
+	  <a href="https://liweijia.github.io/projects/omnicity/"><img class="rounded" onmouseover="this.src='/assets/img/icon_code.png';" onmouseout="this.src='/assets/img/icon_code.png';" src = "/assets/img/icon_code.png" height = "150px"></a><br>
+	  <span style="font-size:16px">Code (Comming)</span><br>
+    </center>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+	 <center>
+	  <a href="https://liweijia.github.io/projects/omnicity/"><img class="rounded" onmouseover="this.src='/assets/img/icon_dataset1.png';" onmouseout="this.src='/assets/img/icon_dataset1.png';" src = "/assets/img/icon_dataset1.png" height = "150px"></a><br>
+	  <span style="font-size:16px">Dataset (Comming)</span><br>
+    </center>
+    </div>
+</div>
 
 
 
