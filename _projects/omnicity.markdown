@@ -108,6 +108,9 @@ The annotator is first required to drag the floor line to fit the bottom boundar
 <div class="caption">
 
 
+<br>
+<br>
+
 <center><h2><a id="downloads">Downloads</a></h2></center>
 <br>
 
