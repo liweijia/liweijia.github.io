@@ -78,7 +78,7 @@ A comparison of our proposed dataset and existing city-related datasets. The # I
 
 
 <br>
-<center><h2><a id="downloads">The Proposed Annotation Tool</a></h2></center>
+<center><h2><a id="downloads">Our Annotation Tool</a></h2></center>
 
 
 <div class="row">
