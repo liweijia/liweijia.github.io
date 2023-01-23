@@ -32,4 +32,5 @@ I am currently an Associate Professor at [School of Geospatial Engineering and S
 
 My research interests include remote sensing image understanding, computer vision, and deep learning. I serve as a reviewer for many SCI journals, including Remote Sensing of Environment, IEEE Transactions on Image Processing, IEEE Transactions on Geoscience and Remote Sensing, Remote Sensing, IEEE J-STARS, IJRS, etc. More information can be found in my [CV](/assets/pdf/liweijia_CV_2022v1.pdf).
 
-I am looking for self-motivated graduate/undergraduate students and research collaborators. Please feel free to contact me if you are interested! 课题组招收2023年入学的硕士生，也非常欢迎优秀的本科生加入，有兴趣的同学可以与我邮件联系！
+I am looking for self-motivated graduate/undergraduate students and research collaborators. Please feel free to contact me if you are interested! 
+课题组招收2023年入学的硕士生，也非常欢迎优秀的本科生加入，有兴趣的同学可以与我邮件联系！
