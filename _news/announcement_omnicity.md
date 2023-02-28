@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-08-01 07:59:00-0400
+date: 2023-2-28 07:59:00-0400
 inline: true
 ---
-[Omnicity homepage](https://city-super.github.io/omnicity/) is online. The dataset and the benchmarks will be released soon. 
+[Omnicity](https://city-super.github.io/omnicity/) is accepted by [CVPR-2023](https://cvpr2023.thecvf.com/)! The dataset and the benchmarks will be released soon. 
