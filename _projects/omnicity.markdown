@@ -6,30 +6,29 @@ img: /assets/img/omnicity-icon.png
 importance: 3
 ---
 
-
+<center><b>CVPR 2023</b></center>
 
 
 <center>
 <td colspan="5" id="authors">
-<a href="http://liweijia.github.io">Weijia Li</a><sup>1,3</sup> &nbsp;&nbsp;&nbsp;
-<a href="https://city-super.github.io/omnicity">Yawen Lai</a><sup>2,4</sup> &nbsp;&nbsp;&nbsp;
+<a href="http://liweijia.github.io">Weijia Li</a><sup>1</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://city-super.github.io/omnicity">Yawen Lai</a><sup>2</sup> &nbsp;&nbsp;&nbsp;
 <a href="https://eveneveno.github.io/lnxu/">Linning Xu</a><sup>3</sup> &nbsp;&nbsp;&nbsp;
 <a href="https://city-super.github.io/omnicity">Yuanbo Xiangli</a><sup>3</sup> &nbsp;&nbsp;&nbsp;
 <a href="https://city-super.github.io/omnicity">Jinhua Yu</a><sup>1</sup> &nbsp;&nbsp;&nbsp;
-<a href="https://city-super.github.io/omnicity">Conghui He</a><sup>4</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://city-super.github.io/omnicity">Conghui He</a><sup>2,4</sup> &nbsp;&nbsp;&nbsp;
 <a href="http://www.captain-whu.com/xia_En.html">Gui-song Xia</a><sup>5</sup> &nbsp;&nbsp;&nbsp;
-<a href="https://dahua.site">Dahua Lin</a><sup>3,6</sup> &nbsp;&nbsp;&nbsp;
+<a href="https://dahua.site">Dahua Lin</a><sup>3,4</sup> &nbsp;&nbsp;&nbsp;
 </td>
 </center>
 
 <center>
 <td colspan="5" id="affiliation">
 <sup>1</sup>Sun Yat-sen University &nbsp;
-<sup>2</sup>Peking University &nbsp;
+<sup>2</sup>Sensetime Research &nbsp;
 <sup>3</sup>The Chinese University of Hong Kong &nbsp;
-<sup>4</sup>Sensetime Research &nbsp;
+<sup>4</sup>Shanghai AI Laboratory &nbsp;
 <sup>5</sup>Wuhan University &nbsp;
-<sup>6</sup>Shanghai AI Laboratory
 
 </td>
 </center>
