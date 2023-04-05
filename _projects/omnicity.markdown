@@ -6,7 +6,7 @@ img: /assets/img/omnicity-icon.png
 importance: 3
 ---
 
-<center><b>CVPR 2023</b></center>
+<center><b>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023</b></center>
 
 
 <center>
