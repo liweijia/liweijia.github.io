@@ -7,7 +7,7 @@ importance: 3
 ---
 
 <center><b>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023</b></center>
-
+</td>
 
 <center>
 <td colspan="5" id="authors">
@@ -16,6 +16,7 @@ importance: 3
 <a href="https://eveneveno.github.io/lnxu/">Linning Xu</a><sup>3</sup> &nbsp;&nbsp;&nbsp;
 <a href="https://city-super.github.io/omnicity">Yuanbo Xiangli</a><sup>3</sup> &nbsp;&nbsp;&nbsp;
 <a href="https://city-super.github.io/omnicity">Jinhua Yu</a><sup>1</sup> &nbsp;&nbsp;&nbsp;
+</td>
 <a href="https://city-super.github.io/omnicity">Conghui He</a><sup>2,4</sup> &nbsp;&nbsp;&nbsp;
 <a href="http://www.captain-whu.com/xia_En.html">Gui-song Xia</a><sup>5</sup> &nbsp;&nbsp;&nbsp;
 <a href="https://dahua.site">Dahua Lin</a><sup>3,4</sup> &nbsp;&nbsp;&nbsp;
@@ -27,6 +28,7 @@ importance: 3
 <sup>1</sup>Sun Yat-sen University &nbsp;
 <sup>2</sup>Sensetime Research &nbsp;
 <sup>3</sup>The Chinese University of Hong Kong &nbsp;
+</td>
 <sup>4</sup>Shanghai AI Laboratory &nbsp;
 <sup>5</sup>Wuhan University &nbsp;
 
