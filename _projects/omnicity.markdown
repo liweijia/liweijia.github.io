@@ -7,7 +7,6 @@ importance: 3
 ---
 
 <center><b>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023</b></center>
-<br>
 
 <center>
 <td colspan="5" id="authors">
@@ -124,20 +123,20 @@ In this work, we provide a variety of benchmarks for multiple satellite and stre
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
 	 <center>
-	  <a href="https://arxiv.org/abs/2208.00928"><img class="rounded" onmouseover="this.src='/assets/img/icon_paper.png';" onmouseout="this.src='/assets/img/icon_paper.png';" src = "/assets/img/icon_paper.png" height = "150px"></a><br>
-	  <span style="font-size:16px">Paper (Arxiv)</span><br>
+	  <a href="/assets/pdf/CVPR2023_OmniCity_camera_ready.pdf"><img class="rounded" onmouseover="this.src='/assets/img/icon_paper.png';" onmouseout="this.src='/assets/img/icon_paper.png';" src = "/assets/img/icon_paper.png" height = "150px"></a><br>
+	  <span style="font-size:16px">Paper</span><br>
     </center>
     </div>
     <div class="col-sm mt-3 mt-md-0">
 	 <center>
-	  <a href="https://city-super.github.io/omnicity"><img class="rounded" onmouseover="this.src='/assets/img/icon_code.png';" onmouseout="this.src='/assets/img/icon_code.png';" src = "/assets/img/icon_code.png" height = "150px"></a><br>
-	  <span style="font-size:16px">Code (Comming)</span><br>
+	  <a href="https://github.com/sysu-lwj-lab/OmniCity-v1.0"><img class="rounded" onmouseover="this.src='/assets/img/icon_code.png';" onmouseout="this.src='/assets/img/icon_code.png';" src = "/assets/img/icon_code.png" height = "150px"></a><br>
+	  <span style="font-size:16px">Code</span><br>
     </center>
     </div>
     <div class="col-sm mt-3 mt-md-0">
 	 <center>
-	  <a href="https://city-super.github.io/omnicity"><img class="rounded" onmouseover="this.src='/assets/img/icon_dataset1.png';" onmouseout="this.src='/assets/img/icon_dataset1.png';" src = "/assets/img/icon_dataset1.png" height = "150px"></a><br>
-	  <span style="font-size:16px">Dataset (Comming)</span><br>
+	  <a href="https://opendatalab.com/OmniCity"><img class="rounded" onmouseover="this.src='/assets/img/icon_dataset1.png';" onmouseout="this.src='/assets/img/icon_dataset1.png';" src = "/assets/img/icon_dataset1.png" height = "150px"></a><br>
+	  <span style="font-size:16px">Dataset</span><br>
     </center>
     </div>
 </div>
