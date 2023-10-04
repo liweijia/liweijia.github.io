@@ -33,4 +33,5 @@ I am currently an Associate Professor at [School of Geospatial Engineering and S
 My research interests include remote sensing image understanding, computer vision, and deep learning. I serve as a reviewer for many SCI journals, including Remote Sensing of Environment, ISPRS P&RS, IEEE Transactions on Image Processing, IEEE TGRS, IEEE J-STARS, Remote Sensing, IJRS, etc. More information can be found in my [CV](/assets/pdf/liweijia_CV_2023.pdf).
 
 I am looking for self-motivated graduate/undergraduate students and research collaborators. We have close research collaboration with [Shanghai Artificial Intelligence Lab](https://www.shlab.org.cn/). Please feel free to contact me if you are interested! 
+
 课题组招收2024年入学的硕士生，也非常欢迎优秀的本科生加入，有兴趣的同学可以与我邮件联系！
