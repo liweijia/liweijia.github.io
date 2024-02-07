@@ -34,4 +34,4 @@ My research interests include remote sensing image understanding, computer visio
 
 I am looking for self-motivated graduate/undergraduate students and research collaborators. We have close research collaboration with [Shanghai Artificial Intelligence Lab](https://www.shlab.org.cn/). Please feel free to contact me if you are interested! 
 
-课题组招收2024年入学的硕士生，也非常欢迎优秀的本科生加入，有兴趣的同学可以与我邮件联系！
+课题组招收2025年入学的硕士生，也非常欢迎优秀的本科生加入，有兴趣的同学可以与我邮件联系！
