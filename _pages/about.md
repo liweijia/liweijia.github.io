@@ -34,4 +34,6 @@ My research interests include remote sensing image understanding, computer visio
 
 I am looking for self-motivated graduate/undergraduate students and research interns. We have close research collaboration with [Shanghai Artificial Intelligence Lab](https://www.shlab.org.cn/). Please feel free to contact me if you are interested! 
 
-课题组招收2025年入学的硕士生，也非常欢迎优秀的本科生加入，有兴趣的同学可以与我邮件联系！
+课题组招收2025年入学的硕士生，也非常欢迎优秀的本科生加入，线上/线下均可，目前组内已有多名本科生在CCF-A类顶会及中科院一区期刊发表一作论文。
+课题组与上海人工智能国家实验室有紧密的学术合作，可推荐优秀的高年级本科生/研究生到上海AI Lab实习或联合培养。
+有兴趣的同学可以直接与我邮件联系！
