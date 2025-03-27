@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 <b>Weijia Li 李唯嘉</b>
 </h1>
 
-Associate Professor
+Associate Professor1
 
 School of Geospatial Engineering and Science
 
