@@ -155,6 +155,10 @@ a, table.table a {
 
 
 // News
+.table-responsive {
+  max-height: 20vw;
+  overflow-y: scroll;
+}
 
 .news table td {
   font-size: 1rem;
@@ -328,13 +332,16 @@ footer.sticky-bottom {
     li {
       margin-bottom: 1rem;
       .abbr {
-        height: 2rem;
+        height: 8rem;
         margin-bottom: 0.5rem;
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
           padding-left: 1rem;
           padding-right: 1rem;
+          position: absolute;
+          top: 8px;
+          left: 16px;
           a {
             color: white;
             &:hover {
@@ -412,6 +419,17 @@ footer.sticky-bottom {
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
       }
+      .teaser {
+        border-radius: 8px;
+        box-shadow: 3px 3px 6px #888;
+        height: 120px;
+        width: 180px;
+        margin-top: 5px;
+        margin-left: 5px;
+        margin-bottom: 5px;
+        object-fit: cover;
+      }
+      
     }
   }
 }
