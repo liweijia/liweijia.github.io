@@ -112,11 +112,11 @@ exclude: [vendor]
 
 # Plug-ins
 plugins:
-  - weijia-email-protect
-  - weijia-github-metadata
-  - weijia-paginate-v2
-  - weijia/scholar
-  - weijia-twitter-plugin
+  - jekyll-email-protect    # 把 weijia 改回 jekyll
+  - jekyll-github-metadata  # 把 weijia 改回 jekyll
+  - jekyll-paginate-v2      # 把 weijia 改回 jekyll
+  - jekyll-scholar          # 把 weijia/scholar 改回 jekyll-scholar
+  - jekyll-twitter-plugin   # 把 weijia 改回 jekyll
   - jemoji
   # - bootstrap
   # - material-sass
