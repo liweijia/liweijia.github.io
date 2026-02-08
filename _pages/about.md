@@ -17,13 +17,13 @@ social: true  # includes social icons at the bottom of the page
 <b>Weijia Li 李唯嘉</b>
 </h1>
 
-Associate Professor
+Incoming Associate Professor
 
-School of Geospatial Engineering and Science
+Tsinghua Shenzhen International Graduate School
 
-Sun Yat-Sen University
+Tsinghua University
 
-Email: liweij29@mail.sysu.edu.cn
+Email: liweijia621@gmail.com
 
 [Google Scholar](https://scholar.google.com/citations?user=R6Rnh9IAAAAJ&hl=en)
 
