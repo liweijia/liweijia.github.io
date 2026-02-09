@@ -14,6 +14,7 @@ nav: true
 - **Students at Shanghai AI Lab**:
 
   [Junyan Ye](https://yejy53.github.io), [Hengrui Kang](https://scholar.google.com/citations?user=kVbzWCAAAAAJ&hl=zh-CN), [Zichen Wen](https://scholar.google.com/citations?user=N-aPFvEAAAAJ&hl=en&oi=ao), [Chenhao Dang](https://openreview.net/profile?id=~Chenhao_Dang1), [Yuncheng Guo](https://openreview.net/profile?id=~Yuncheng_Guo1), [Leqi Zhu](https://openreview.net/profile?id=~Leqi_Zhu1)
+  
   [Baichuan Zhou](https://scholar.google.com/citations?user=ByagRzIAAAAJ&hl=en), [Siwei Wen](https://scholar.google.com/citations?user=kJRiUYwAAAAJ&hl=zh-CN), [Peilin Feng](https://peilin-ff.github.io/), [Honglin Lin](https://lhl3341.github.io/)
 
 
