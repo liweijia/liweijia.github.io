@@ -1,55 +1,51 @@
-name: Deploy
+name: Deploy to GitHub Pages
 
 on:
   push:
-    branches:
-      - master
-      - source
-  pull_request:
-    branches:
-      - master
-      - source
+    branches: ["master"]
+  workflow_dispatch:
+
+# 赋予必要的权限
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 防止并发冲突
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
-    - name: Setup Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: '3.1'
-        bundler-cache: true
-    - name: Enable bundler cache
-      uses: actions/cache@v4
-      with:
-        path: vendor/bundle
-        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-gems-
-    - name: Install deps
-      run: |
-        gem install bundler
-        bundle config path vendor/bundle
-        bundle install --jobs 4 --retry 3
-    - name: Setup deploy options
-      id: setup
-      run: |
-        git config --global user.name "GitHub Action"
-        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        if [[ ${GITHUB_REF} = refs/pull/*/merge ]]; then # pull request
-          echo "::set-output name=SRC_BRANCH::${GITHUB_HEAD_REF}"
-          echo "::set-output name=NO_PUSH::--no-push"
-        elif [[ ${GITHUB_REF} = refs/heads/* ]]; then # branch, e.g. master, source etc
-          echo "::set-output name=SRC_BRANCH::${GITHUB_REF#refs/heads/}"
-        fi
-        if [[ ${{ github.repository }} = *.github.io ]]; then # user/org repo
-          echo "::set-output name=DEPLOY_BRANCH::gh-pages"
-        else
-          echo "::set-output name=DEPLOY_BRANCH::gh-pages"
-        fi
-    - name: Deploy website 
-      run:  yes | bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
-                    --src ${{ steps.setup.outputs.SRC_BRANCH }} 
-                    --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1' # 使用兼容你代码的 Ruby 版本
+          bundler-cache: true # 自动缓存依赖，加速构建
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        # 这里是关键：使用 bundle exec 确保加载 Gemfile 里的插件（包括 jekyll-scholar）
+        run: bundle exec jekyll build --destination ./_site
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
