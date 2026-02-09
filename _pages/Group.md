@@ -8,13 +8,13 @@ nav: true
 
 - **Current Students at SYSU**：
 
-  [Zhenghao Hu](https://scholar.google.com/citations?user=ZR9_WdgAAAAJ&hl=zh-CN&oi=sra), Xinjie Huo, [Junyan Ye](https://yejy53.github.io), [Zhutao Lv](https://scholar.google.com/citations?user=aGJ7T4YAAAAJ)
+  [Zhenghao Hu](https://scholar.google.com/citations?user=ZR9_WdgAAAAJ&hl=zh-CN&oi=sra), [Xinjie Huo](https://scholar.google.com/citations?user=0osg1poAAAAJ&hl=en), [Junyan Ye](https://yejy53.github.io), [Zhutao Lv](https://scholar.google.com/citations?user=aGJ7T4YAAAAJ)
 
 
 
 - **Current Interns at Shanghai AI Lab**:
 
-  [Junyan Ye](https://yejy53.github.io), [Hengrui Kang](https://scholar.google.com/citations?user=kVbzWCAAAAAJ&hl=zh-CN), [Zichen Wen](https://scholar.google.com/citations?user=N-aPFvEAAAAJ&hl=en&oi=ao), Leqi Zhu, Yuncheng Guo
+  [Junyan Ye](https://yejy53.github.io), [Hengrui Kang](https://scholar.google.com/citations?user=kVbzWCAAAAAJ&hl=zh-CN), [Zichen Wen](https://scholar.google.com/citations?user=N-aPFvEAAAAJ&hl=en&oi=ao), Chenhao Dang, Leqi Zhu, Yuncheng Guo
 
 
 - **Previous Students & Interns**：
