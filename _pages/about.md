@@ -17,24 +17,24 @@ social: true  # includes social icons at the bottom of the page
 <b>Weijia Li 李唯嘉</b>
 </h1>
 
-Associate Professor
+Incoming Associate Professor
 
-School of Geospatial Engineering and Science
+Shenzhen International Graduate School
 
-Sun Yat-Sen University
+Tsinghua University
 
-Email: liweij29@mail.sysu.edu.cn
+Email: liweijia621@gmail.com
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=R6Rnh9IAAAAJ&view_op=list_works&sortby=pubdate)
 
 
-I am currently an Associate Professor at Sun Yat-Sen University. Previously, I was a Post-doc Researcher (2019-2021) at CUHK-Sensetime Joint Lab ([MMLab](http://mmlab.ie.cuhk.edu.hk/index_cn.html)), Department of Information Engineering, CUHK, working with [Prof. Dahua Lin](http://dahua.site/). I received my Ph.D. (2014-2019) from Department of Earth System Science, Tsinghua Univeristy, advised by [Prof. Haohuan Fu](https://www.thuhpgc.net/mediawiki/index.php/Haohuan_Fu), and the Bachelor degree (2010-2014) from Department of Computer Science, Sun Yat-Sen Univeristy.
+I am an incoming Tenure-Track Associate Professor at Institute of Data and Information, [SIGS, Tsinghua University](https://www.sigs.tsinghua.edu.cn/). Previously, I was an Associate Professor (2021.11-2026.1) at Sun Yat-sen University. I was a Post-doc Researcher (2019.11-2021.11) at CUHK-Sensetime Joint Lab ([MMLab](http://mmlab.ie.cuhk.edu.hk/index_cn.html)), Department of Information Engineering, CUHK, working with [Prof. Dahua Lin](http://dahua.site/). I received my Ph.D. (2014-2019) from Department of Earth System Science, Tsinghua Univeristy, advised by [Prof. Haohuan Fu](https://www.thuhpgc.net/mediawiki/index.php/Haohuan_Fu), and the Bachelor degree (2010-2014) from Department of Computer Science, Sun Yat-Sen Univeristy.
 
-My research interests include computer vision, deep learning, and their applications in urban remote sensing, with a recent focus on large multimodal models and generative models. I serve as a reviewer for many SCI journals and TOP conferences, including RSE, ISPRS P&RS, IEEE TIP/TGRS/TCSVT, CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, etc.
+My research interests include computer vision, deep learning, and their applications in urban remote sensing, with a recent focus on large multimodal models, generative models and AI agents. I serve as a reviewer for many SCI journals and TOP conferences, including RSE, ISPRS P&RS, IEEE TIP/TGRS/TCSVT, CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI, etc.
 
-I am looking for self-motivated graduate/undergraduate students and research interns. We have close research collaboration with [Shanghai Artificial Intelligence Lab](https://www.shlab.org.cn/). Please feel free to contact me if you are interested! 
+I am looking for self-motivated PostDoc, graduate/undergraduate students and research interns. We have close research collaboration with [Shanghai Artificial Intelligence Lab](https://www.shlab.org.cn/). Please feel free to contact me if you are interested! 
 
-课题组常年招收优秀的本科生及科研实习生加入，线上/线下均可，组内已培养多名本科生/研究生在CCF-A类顶会及中科院一区SCI发表一作论文。
-课题组与上海人工智能实验室有紧密的研究合作，组内已有多名本科生/研究生在上海AI Lab实习或联合培养，研究方向包括多模态大模型、图像生成等。
 
-课题组招收2026年入学的硕士生，有兴趣的同学请尽早与我邮件联系！
+清华深研院课题组招收博士后、2026年入学的统考硕士、2027年入学的保研/普博学生，并常年招收优秀的本科生及科研实习生加入。有兴趣的同学请尽早与我邮件联系。
+
+上海人工智能实验室OpenDataLab组招收算法实习生，研究方向包括多模态大模型、生成模型、智能体等，欢迎有兴趣的同学发与我邮件联系。
