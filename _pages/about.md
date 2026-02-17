@@ -23,7 +23,7 @@ Shenzhen International Graduate School
 
 Tsinghua University
 
-Email: liweijia621@gmail.com
+Email: liweijia_thusigs@outlook.com
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=R6Rnh9IAAAAJ&view_op=list_works&sortby=pubdate)
 
